@@ -1,0 +1,6 @@
+- 👋 Olá meu nome é Kauan, tenho 16 anos e atualmente estou focado em desenvolvimento front-end, procurando por freelancers e estágios para adiquirir mais experiência na área.
+- 📌 Curiosidades sobre mim:
+- Ajudo meu pai com uma escola de robótica.
+- 💻 Gosto de programar no tempo livre;
+- ❤️ Minha linguagem favorita é o JavaScript;
+- ⚙️Linguagens que estou utilizando no momento: Html, Css e JavaScript
